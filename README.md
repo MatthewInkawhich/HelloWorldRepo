@@ -1,2 +1,2 @@
 # HelloWorldRepo
-Used for playing and learning Git
+Used for playing with and learning Git
